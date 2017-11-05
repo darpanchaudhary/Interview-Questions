@@ -1,7 +1,5 @@
-import math
 
 #returns value, start_index, end_index
-
 def max_subseq(value_list,):
 	
 	l = len(value_list)
